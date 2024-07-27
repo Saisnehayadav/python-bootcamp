@@ -1,0 +1,5 @@
+print upper triangular matrix
+print lower triangular matrix
+print rhombus
+print parallellogram
+print number pyramid
